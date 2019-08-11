@@ -5,4 +5,6 @@ object Main {
     print("Hello, World!")
   }
 
+  def someFunc(number:Int): Int = number * 2;
+
 }
